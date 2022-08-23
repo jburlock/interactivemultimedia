@@ -6,7 +6,7 @@
 <body>
 
 <h1>Jaynie's Art</h1>
-<p>Here are some things I have created!.</p>
+<p>Here are some things I have created!</p>
 <img src="https://user-images.githubusercontent.com/111900023/186222664-543e5f65-8219-454c-adcb-90f9d8e554ca.png">
 
 
